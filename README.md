@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 from tensorflow.keras import layers, models
 from sklearn.model_selection import train_test_split
 
-# Read data and 
+### Read data and 
 data_dir = "/content/drive/MyDrive/Data"  
 img_size = 64  # resize image
 
